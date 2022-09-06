@@ -1,4 +1,4 @@
-import Head from "next/Head";
+import Head from 'next/head'
 import Info from "../../components/pages/explore/Info";
 import Actors from "../../components/pages/explore/Actors";
 import Morelike from "../../components/pages/explore/Morelike";
